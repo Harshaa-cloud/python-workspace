@@ -1,59 +1,59 @@
-1.'''name=input("enter the name:")
+name=input("enter the name:")
 Id=int(input("enter the Id:"))
 mark=int(input("enter the mark:"))
 age=int(input("enter the age:"))
 mobileno=int(input("enter the mobileno:"))
 blockname=input("enter the blockname:")
 medium=input("enter the medium:")
-print(f"name:{name} Id:{Id} mark:{mark} age:{age} mobileno:{mobileno} blockname:{blockname} medium:{medium}")'''
+print(f"name:{name} Id:{Id} mark:{mark} age:{age} mobileno:{mobileno} blockname:{blockname} medium:{medium}")
 
-2.'''num1=int(input("enter the number:"))
+num1=int(input("enter the number:"))
 num2=int(input("enter the number:"))
 greater=max(num1 , num2)
-print("the greater number is:",greater)'''
+print("the greater number is:",greater)
 
-3.'''num1=int(input("enter the number :"))
+num1=int(input("enter the number :"))
 num2=int(input("enter the number :"))
 greater=max(num1 , num2)
-print("both numbers are equal :",num1 != num2)'''
+print("both numbers are equal :",num1 != num2)
 
-4.'''num1=int(input("enter the number :"))
+num1=int(input("enter the number :"))
 num2=int(input("enter the number :"))
-print(num1 != num2)'''
+print(num1 != num2)
 
-5.'''a=int(input("enter the number :"))
+a=int(input("enter the number :"))
 b=int(input("enter the number :"))
 print(a+b)
 print(a-b)
 print(a*b)
 print(a/b)
 print(a//b)
-print(a%b)'''
+print(a%b)
 
-6.'''name=input("enter the name:")
-print("hello:" + name)'''
+name=input("enter the name:")
+print("hello:" + name)
 
 
-7.'''num1=int(input("enter the number :"))
+num1=int(input("enter the number :"))
 num2=int(input("enter the number :"))
-print("the sum of num1 and num2 :",num1+num2)'''
+print("the sum of num1 and num2 :",num1+num2)
 
-8.'''a=int(input("enter the number :"))
+a=int(input("enter the number :"))
 b=int(input("enter the number :"))
 result=a/b
-print("result of diving two numbers is:",{result})'''
+print("result of diving two numbers is:",{result})
 
 
-9.'''result1= (-1+4*6)
+result1= (-1+4*6)
 result2= (35+5)%7
 result3= (14+-4*6/11)
 result4= (2+15/6*1-7%2)
 print(result1)
 print(result2)
 print(result3)
-print(result2)'''
+print(result2)
 
-10.'''a = int(input("First number:"))
+a = int(input("First number:"))
 b = int(input("Second number:"))
 sum1 = a + b
 sum2 = a - b
@@ -64,29 +64,30 @@ print(f"{a} + {b} = {sum1}")
 print(f"{a} - {b} = {sum2}")
 print(f"{a} * {b} = {sum3}")
 print(f"{a} / {b} = {sum4}")
-print(f"{a} % {b} = {sum5}")'''
+print(f"{a} % {b} = {sum5}")
 
-11.'''a = int(input("First number:"))
+a = int(input("First number:"))
 b = int(input("Second number:"))
 print(f"before swap:a={a},b={b}")
 a,b=b,a
-print(f"before swap:a={a},b={b}")'''
+print(f"before swap:a={a},b={b}")
 
-12.'''a = int(input("First number:"))
+a = int(input("First number:"))
 b = int(input("Second number:"))
 c = int(input("Second number:"))
 mul=a*b*c
-print(f"{a}*{b}*{c}={mul}")'''
+print(f"{a}*{b}*{c}={mul}")
 
 
-13.'''num1 = int(input("Enter the First number: "))
+num1 = int(input("Enter the First number: "))
 num2 = int(input("Enter the Second number: "))
 num3 = int(input("Enter the Third number: "))
 num4 = int(input("Enter the Fourth number: "))
 average = (num1 + num2 + num3 + num4) // 4
-print("The average of", num1, ",", num2, ",", num3, ",", num4, "is:", average)'''
+print("The average of", num1, ",", num2, ",", num3, ",", num4, "is:", average)
 
-14.'''print("&\n&&\n&&&")'''
+print("&\n&&\n&&&")
+
 
 
 
